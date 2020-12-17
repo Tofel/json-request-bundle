@@ -42,7 +42,7 @@ Installation
 * Require the bundle with composer:
 
 ``` bash
-composer require symfony-bundles/json-request-bundle
+composer require Tofel/json-request-bundle
 ```
 
 [package-link]: https://packagist.org/packages/symfony-bundles/json-request-bundle
